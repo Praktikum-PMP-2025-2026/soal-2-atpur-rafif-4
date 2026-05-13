@@ -1,5 +1,8 @@
-// Muhammad Atpur Rafif
-// 13522086
+// Nama Kuliah (Kode): EL2008 Pemecahan Masalah dengan Pemrograman
+// Tahun/Semester: 2025-2026/Genap
+// Modul: 5 - Foundation of Algorithm
+// Nama Asisten/NIM: Jason Theo Salim / 13222106
+// Nama Praktikan/NIM: Muhammad Atpur Rafif / 13522086
 
 #include <stdio.h>
 
