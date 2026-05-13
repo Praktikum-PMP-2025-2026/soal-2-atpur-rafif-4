@@ -1,3 +1,6 @@
+// Muhammad Atpur Rafif
+// 13522086
+
 #include <stdio.h>
 
 int traverse(int r, int c, char* N, char *T, int R, int C){
